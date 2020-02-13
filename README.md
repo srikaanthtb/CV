@@ -1,4 +1,4 @@
-## Your Name
+## Srikaanth Thalanki Balajhi
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -42,13 +42,9 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Sitefinders** (may 2016 to January 2020)    
+*Web developer*  
+- I was responsible for rebuilding websites from the ground up that the company owned.
 
 ## Hobbies
 
