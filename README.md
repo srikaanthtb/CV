@@ -13,7 +13,7 @@ I have 4 years of experience of weveloping websites using wordpress
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 2020 to may 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
