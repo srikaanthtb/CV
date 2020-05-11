@@ -4,6 +4,12 @@ An aspiring software developer with a passion to seek out the next big thing. Af
 
 I want to become a full fledged software developer and always be seeking that next big thing in a industry that constantly changes
 
+## Projects
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+|<a href="https://github.com/lilawalker/acebook-smooth-railing">Acebook on Rails</a> | Group project. A replica of Facebook that is linked to a database and can store accounts, uses the gem devise to handle log-in/log-out. Allows the user to post thoughts and pictures, stored in albums on personal profiles. | 2 weeks | Ruby on Rails, HTML, CSS bootstrap | RSpec, Travis, Heroku |
+|<a href="https://github.com/The-Mech-Squad/the_mech_squad">Space Trash</a> | Final group project of Makers Academy. The educational application that visualises satellites and space debris, using machine learning to try and predict what these objects could look like in the future. | 2 weeks | Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL
+  |<a href="https://github.com/Debora38/instagram-challenge">MakersBnB challenge</a> | A replica of AirBnB as a group project built in rails. | 2 days | Ruby on Rails, HTML, CSS | Capybara, RSpec, Travis|
 
 
 #### Skills
