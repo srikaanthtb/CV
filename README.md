@@ -14,7 +14,7 @@ I want to become a full fledged software developer and always be seeking that ne
 
 #### Skills
 **Web developement**
-I have 4 years of experience of weveloping websites using wordpress
+I have 4 years of experience of developing websites using wordpress
 
 
 ## Education
