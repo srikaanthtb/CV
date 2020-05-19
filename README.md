@@ -14,7 +14,7 @@ I want to become a full fledged software developer and always be seeking that ne
 
 #### Skills
 **Web developement**
-I have 4 years of experience of developing websites using wordpress
+I have 4 years of experience of developing websites using wordpress. Examples of my work: <a href="https://www.dogs.co.uk/">Dogs.co.uk</a>, <a href="https://www.pfca.org.uk/">PFCA</a>, <a href="https://www.expatriates.co.uk/">Expatriates</a>
 
 
 ## Education
